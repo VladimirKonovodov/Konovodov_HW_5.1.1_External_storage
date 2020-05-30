@@ -40,7 +40,7 @@
             android:ellipsize="none"
             android:textSize="@dimen/textSizeSubtitle"
             tools:text="subTitle Category" />
-        
+
         <TextView
             android:id="@+id/subtitle"
             android:layout_width="match_parent"
