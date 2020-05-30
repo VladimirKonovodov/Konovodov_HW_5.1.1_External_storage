@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Hello">
+        <item>Hello,</item>
+        <item>its me</item>
+        <item>I was wondering if after all these years youd like to meet</item>
+        <item>To go over everything</item>
+        <item>They say that times supposed to heal ya</item>
+        <item>But I aint done much healing</item>
+        <item>Hello,</item>
+        <item>can you hear me?</item>
+        <item>Im in California dreaming about who we used to be</item>
+        <item>When we were younger and free</item>
+        <item>Ive forgotten how it felt before the world fell at our feet</item>
+        <item>Theres such a difference between us</item>
+        <item>And a million miles</item>
+        <item>Hello from the other side</item>
+        <item>I mustve called a thousand times</item>
+        <item>To tell you Im sorry for everything that Ive done</item>
+    </string-array>
+</resources>
